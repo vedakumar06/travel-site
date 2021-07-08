@@ -6,3 +6,4 @@ here changes has done ready for commit-3
 
 now iam in feature branch ready to commit f1c1
 edited
+fetching the data
